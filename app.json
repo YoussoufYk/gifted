@@ -16,17 +16,17 @@
     "MODE": {
       "description": "set Mode  to public or private",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "Youssouf YK"
     },
     "OWNER_NUMBER": {
       "description": "Put Owner Number Here",
       "required": true,
-      "value": "254762016957"
+      "value": "237696262128"
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
@@ -51,7 +51,7 @@
     "STATUS_READ_MSG": {
       "description": "set your status reply message to be sent after bot views status else leave blank",
       "required": false,
-      "value": "Status Viewed by Gifted-Md"
+      "value": "Status Viewed by YK✅"
     },
     "AUTO_READ_MESSAGES": {
       "description": "Make it true if you want bot to always read messages else leave blank",
